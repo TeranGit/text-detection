@@ -5,7 +5,9 @@ A demo application for text detection using Python, OpenCV, and TensorFlow.
 ## Description
 
 This project demonstrates text detection in images and video streams using the EAST text detector model with OpenCV and TensorFlow. It includes scripts for detecting text in both static images and live video streams from a camera.
+
 ![](https://github.com/TeranGit/text-detection/blob/main/demo.png)
+
 ## Installation
 
 ### Prerequisites
